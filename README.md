@@ -1,6 +1,6 @@
 # Luiza Lissandra
 
-Tenho 20 anos. Sou estudante de Engenharia Eletrônica e de Computação na UFRJ e estagiária da ECOA PUC-Rio no projeto <a href = "https://nossaenergia.petrobras.com.br/pt/energia/conexoes-para-a-inovacao-modulo-ignicao-busca-as-ideias-de-jovens-estudantes/#menu"> Módulo Ignição da Petrobras. </a>
+Tenho 20 anos. Sou estudante de Engenharia Eletrônica e de Computação na UFRJ e estagiária da ECOA PUC-Rio no projeto <a href = "https://nossaenergia.petrobras.com.br/pt/energia/conexoes-para-a-inovacao-modulo-ignicao-busca-as-ideias-de-jovens-estudantes/#menu"> Módulo Ignição </a> da Petrobras.
 
 Fui bolsista do projeto <a href = "https://laweeeda.ict.unesp.br/site/en/about/"> LaWEEEda </a> e voluntária do <a href = "http://nides.ufrj.br/index.php/o-lipe"> Laboratório de Informática para Educação </a> (LIpE).
 
