@@ -19,8 +19,8 @@ Fui uma das mentoras de um curso de <a href = "https://medium.com/reflex%C3%A3o-
 
 ### Hackathons
 
-- Projeto <a href = "https://www.youtube.com/watch?v=1PgXwTWuz_w&t=1s"> Liv </a> [2º lugar] - <a href = "https://www.megahack.com.br/"> Mega Hack 3.0 </a> (Desafio - <a href = "https://arvoreeducacao.com.br/"> Árvore Educação </a>) 
+- Projeto <a href = "https://www.youtube.com/watch?v=1PgXwTWuz_w"> Liv </a> [2º lugar] - <a href = "https://www.megahack.com.br/"> Mega Hack 3.0 </a> (Desafio - <a href = "https://arvoreeducacao.com.br/"> Árvore Educação) </a> 
 
-- Projeto <a href = "https://www.youtube.com/watch?v=W2OsVL8vhc8&t=4s"> Agilicar </a> [6º lugar] - <a href = "http://www.grupoccr.com.br/hackathonccr/"> Hackathon CCR </a> 
+- Projeto <a href = "https://www.youtube.com/watch?v=W2OsVL8vhc8"> Agilicar </a> [6º lugar] - <a href = "http://www.grupoccr.com.br/hackathonccr/"> Hackathon CCR </a> 
 
 - Projeto <a href = "https://www.youtube.com/watch?v=bgvWcUgYe2g"> Tags </a> - <a href = "http://www.hackingrio.com/hackinghelp/"> Hacking Help Covid19 </a>
