@@ -7,7 +7,9 @@
 
 - **Full Stack** :woman_technologist:
 
-- Python, Javascript, C++, C, SQL, HTML, CSS, Node.js, Nunjucks e **mais** 💻
+- Python, Javascript, ES6+, C++, C, SQL, HTML, CSS, Node.js, Typescript, React e **mais** 💻
+
+- Entusiasta de **Design** :iphone:
 
 ## Sobre mim
 
