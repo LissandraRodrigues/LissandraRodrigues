@@ -7,7 +7,11 @@
 
 - **Full Stack** :woman_technologist:
 
-- Python, Javascript, ES6+, C++, C, SQL, HTML, CSS, Node.js, Typescript, React e **mais** 💻
+- Meu foco atual: Javascript (ES6+), HTML, CSS, Node.js, SQL, ReactJS e React Native 💻
+
+- Já dei aulas de introdução à lógica de programação e desenvolvi um projeto no meu estágio com **Python**
+
+- Já tive um pequeno contato com **C++** e **C**
 
 - Entusiasta de **Design** :iphone:
 
