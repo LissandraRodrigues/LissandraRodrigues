@@ -21,12 +21,14 @@
 <code><img src="sql.png" alt="SQL" width="40" height="40"/></code>&nbsp;
  </p>
 
-
 - Já dei aulas de introdução à lógica de programação e desenvolvi um projeto no meu estágio com **Python**
 
 - Já tive um pequeno contato com **C++** e **C**
 
 - Entusiasta de **Design** :iphone:
+
+
+![Luiza Lissandra GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=LissandraRodrigues&show_icons=true&hide_border=true)
 
 ## Sobre mim
 
