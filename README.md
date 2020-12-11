@@ -27,8 +27,9 @@
 
 - Entusiasta de **Design** :iphone:
 
-
 ![Luiza Lissandra GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=LissandraRodrigues&show_icons=true&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LissandraRodrigues&layout=compact&theme=radical)](https://github.com/LissandraRodrigues/github-readme-stats)
 
 ## Sobre mim
 
