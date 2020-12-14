@@ -28,9 +28,9 @@
 - Entusiasta de **Design** :iphone:
 
 ![Luiza Lissandra GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=LissandraRodrigues&show_icons=true&hide_border=true)
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LissandraRodrigues)](https://github.com/LissandraRodrigues/github-readme-stats)
-
+-->
 ## Sobre mim
 
 Tenho 20 anos. Sou estudante de Engenharia Eletrônica e de Computação na UFRJ e estagiária da ECOA PUC-Rio no projeto <a href = "https://nossaenergia.petrobras.com.br/pt/energia/conexoes-para-a-inovacao-modulo-ignicao-busca-as-ideias-de-jovens-estudantes/#menu"> Módulo Ignição </a> da Petrobras.
