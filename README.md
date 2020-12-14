@@ -7,6 +7,8 @@
 
 - **Full Stack** :woman_technologist:
 
+- Estudante do Go Stack da <a href='rocketseat.com.br'> Rocketseat <a/> :warning:
+
 - Meu foco atual:
 
 <p align="left">
