@@ -23,7 +23,9 @@
 <code><img src="sql.png" alt="SQL" width="40" height="40"/></code>&nbsp;
  </p>
 
-- Já dei aulas de introdução à lógica de programação e desenvolvi um projeto no meu estágio na <a href='http://ecoa.usuarios.rdc.puc-rio.br/'>ECOA PUC-Rio</a> com **Python**
+- Já dei aulas de introdução à lógica de programação com **Python** 
+
+- Desenvolvi projetos no meu estágio na <a href='http://ecoa.usuarios.rdc.puc-rio.br/'>ECOA PUC-Rio</a> com **Python**, **Javascript** e **Node**  
 
 - Já tive um pequeno contato com **C++** e **C**
 
