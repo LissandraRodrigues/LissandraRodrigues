@@ -5,7 +5,7 @@
 [![Behance Badge](https://img.shields.io/badge/Behance-blue?style=flat-square&logo=Behance&link=https://www.behance.net/luizalissandra)](https://www.behance.net/luizalissandra)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LissandraRodrigues)](https://github.com/LissandraRodrigues)
 
-- **Full Stack** :woman_technologist:
+- Desenvolvedora **Full Stack** :woman_technologist:
 
 - Estudante do Go Stack da <a href='rocketseat.com.br'> Rocketseat <a/> :rocket:
 
