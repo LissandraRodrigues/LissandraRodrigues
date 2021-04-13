@@ -37,7 +37,7 @@
 -->
 ## Sobre mim
 
-Tenho 20 anos. Sou estudante de Engenharia Eletrônica e de Computação na UFRJ e estagiária da ECOA PUC-Rio no projeto <a href = "https://nossaenergia.petrobras.com.br/pt/energia/conexoes-para-a-inovacao-modulo-ignicao-busca-as-ideias-de-jovens-estudantes/#menu"> Módulo Ignição </a> da Petrobras.
+Sou estudante de Engenharia Eletrônica e de Computação na UFRJ e fui estagiária da ECOA PUC-Rio no projeto <a href = "https://nossaenergia.petrobras.com.br/pt/energia/conexoes-para-a-inovacao-modulo-ignicao-busca-as-ideias-de-jovens-estudantes/#menu"> Módulo Ignição </a> da Petrobras.
 
 Fui bolsista da <a href = "https://laweeeda.ict.unesp.br/site/en/about/"> LaWEEEda </a> e voluntária do <a href = "http://nides.ufrj.br/index.php/o-lipe"> Laboratório de Informática para Educação </a> (LIpE).
 
