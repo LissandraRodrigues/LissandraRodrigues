@@ -25,7 +25,7 @@
 
 - Já dei aulas de introdução à lógica de programação com **Python** 
 
-- Desenvolvi projetos no meu estágio na <a href='http://ecoa.usuarios.rdc.puc-rio.br/'>ECOA PUC-Rio</a> com **Python**, **Javascript** e **Node**  
+- Desenvolvi projetos no meu estágio na <a href='http://ecoa.usuarios.rdc.puc-rio.br/'>ECOA PUC-Rio</a> com **Python**, **Javascript**, **NodeJS**, **HTML** e **CSS**  
 
 - Já tive um pequeno contato com **C++** e **C**
 
