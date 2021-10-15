@@ -57,3 +57,6 @@ Fui uma das mentoras de um curso de <a href = "https://medium.com/reflex%C3%A3o-
 
 - Projeto <a href = "https://www.youtube.com/watch?v=bgvWcUgYe2g"> Tags </a> - <a href = "http://www.hackingrio.com/hackinghelp/"> Hacking Help Covid19 </a>
 
+![Snake animation](https://github.com/LissandraRodrigues/LissandraRodrigues/blob/output/github-contribution-grid-snake.svg)
+ 
+<img src="https://komarev.com/ghpvc/?username=LissandraRodrigues&label=Visits">
