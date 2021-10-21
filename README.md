@@ -7,7 +7,7 @@
 
 - **Full Stack** Developer :woman_technologist:
 
-- Student of Discover, Go Stack 14 and Ignite of <a href='https://www.rocketseat.com.br/'> Rocketseat <a/> :rocket:
+- Student of Discover, Go Stack 14 and Ignite at <a href='https://www.rocketseat.com.br/'> Rocketseat <a/> :rocket:
 
 - My current focus:
 
