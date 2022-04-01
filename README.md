@@ -22,33 +22,26 @@
 <code><img src="css.png" alt="CSS3" width="40" height="40"/></code>&nbsp;
  </p>
 
-- I've already given introductory classes to programming logic with **Python**
-
-- I developed projects in my internship at <a href='http://ecoa.usuarios.rdc.puc-rio.br/'>ECOA PUC-Rio</a> with **Python**, **Javascript**, **NodeJS**, **HTML** and **CSS**   
-
-- I've had a little contact with **C++** and **C**
-
-- **Design** enthusiast :iphone:
-
-![Luiza Lissandra GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=LissandraRodrigues&show_icons=true&hide_border=true)
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LissandraRodrigues)](https://github.com/LissandraRodrigues/github-readme-stats)
--->
-
 ## About me
 
 I am a student of Electronic and Computer Engineering at <a href='https://poli.ufrj.br/graduacao/eletronica-e-de-computacao/'> UFRJ. </a>
 
-I was an intern at <a href='http://ecoa.usuarios.rdc.puc-rio.br/'>ECOA PUC-Rio</a> in the project <a href = "https://nossaenergia.petrobras.com.br/pt/energia/conexoes-para-a-inovacao-modulo-ignicao-busca-as-ideias-de-jovens-estudantes/#menu"> Ignition Module </a> from <a href='https://petrobras.com.br/pt/'> Petrobras. </a>
+### I was:
 
-I was an intern at <a href="http://www.tracsense.tech/"> TracSense </a> as a Full Stack Developer.
+ - An intern at <a href='http://ecoa.usuarios.rdc.puc-rio.br/'>ECOA PUC-Rio</a> in the project <a href = "https://nossaenergia.petrobras.com.br/pt/energia/conexoes-para-a-inovacao-modulo-ignicao-busca-as-ideias-de-jovens-estudantes/#menu"> Ignition Module </a> from <a href='https://petrobras.com.br/pt/'> Petrobras. </a> I worked with **Python**, **Javascript**, **NodeJS**, **HTML** and **CSS**.
+
+- An intern at <a href="http://www.tracsense.tech/"> TracSense </a> as a Full Stack Developer. I worked with **Python**, **Javascript**, **NodeJS**, **Typescript** and **React**.   
  
-I was an member at <a href="https://ejcm.com.br/"> EJCM </a> as a Back-end Developer.
+- An member at <a href="https://ejcm.com.br/"> EJCM </a> as a Back-end Developer. I worked with **Javascript**, **NodeJS**, **React**, **HTML** and **CSS**.
 
-I was a <a href = "https://laweeeda.ict.unesp.br/site/en/about/"> LaWEEEda </a> scholarship holder and a volunteer at the <a href = "http://nides.ufrj.br/index.php/o-lipe"> Informatics Laboratory for Education </a> (LIpE).
+- A <a href = "https://laweeeda.ict.unesp.br/site/en/about/"> LaWEEEda </a> scholarship holder and a volunteer at the <a href = "http://nides.ufrj.br/index.php/o-lipe"> Informatics Laboratory for Education </a> (LIpE).
 
-I was one of the mentors of a course on <a href = "https://medium.com/reflex%C3%A3o-computacional"> Introduction to Programming Logic </a> for women from public high school and also of a course of <a href = "http://nides.ufrj.br/index.php/projetos-lipe/laweeeda-projetos-lipe"> Recycling of Electronics. </a> Both courses were free and taken in UFRJ laboratories. 
+- One of the mentors of a course on <a href = "https://medium.com/reflex%C3%A3o-computacional"> Introduction to Programming Logic </a> with Python for women from public high school and also of a course of <a href = "http://nides.ufrj.br/index.php/projetos-lipe/laweeeda-projetos-lipe"> Recycling of Electronics. </a> Both courses were free and taken in UFRJ laboratories. 
 
+### I have:
+ 
+ - Had a little contact with **C++** and **C**.
+ 
 ### Hackathons
 
 - Project <a href = "https://github.com/LissandraRodrigues/projeto_liv_mega_hack"> Liv </a> [2º place] - <a href = "https://www.megahack.com.br/"> Mega Hack 3.0 </a> (Challenge - <a href = "https://arvoreeducacao.com.br/"> Árvore Educação</a>) 
