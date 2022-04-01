@@ -41,6 +41,10 @@ I am a student of Electronic and Computer Engineering at <a href='https://poli.u
 
 I was an intern at <a href='http://ecoa.usuarios.rdc.puc-rio.br/'>ECOA PUC-Rio</a> in the project <a href = "https://nossaenergia.petrobras.com.br/pt/energia/conexoes-para-a-inovacao-modulo-ignicao-busca-as-ideias-de-jovens-estudantes/#menu"> Ignition Module </a> from <a href='https://petrobras.com.br/pt/'> Petrobras. </a>
 
+I was an intern at <a href="http://www.tracsense.tech/"> TracSense </a> as a Full Stack Developer.
+ 
+I was an member at <a href="https://ejcm.com.br/" EJCM </a> as a Back-end Developer.
+
 I was a <a href = "https://laweeeda.ict.unesp.br/site/en/about/"> LaWEEEda </a> scholarship holder and a volunteer at the <a href = "http://nides.ufrj.br/index.php/o-lipe"> Informatics Laboratory for Education </a> (LIpE).
 
 I was one of the mentors of a course on <a href = "https://medium.com/reflex%C3%A3o-computacional"> Introduction to Programming Logic </a> for women from public high school and also of a course of <a href = "http://nides.ufrj.br/index.php/projetos-lipe/laweeeda-projetos-lipe"> Recycling of Electronics. </a> Both courses were free and taken in UFRJ laboratories. 
