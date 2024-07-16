@@ -1,6 +1,6 @@
 # Luiza Lissandra
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiza-lissandra/)](https://www.linkedin.com/in/luiza-lissandra/)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiza-lissandra/)](https://www.linkedin.com/in/luiza-lissandra/) -->
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizalissandrarosa@poli.ufrj.br)](mailto:luizalissandrarosa@poli.ufrj.br)
 [![Behance Badge](https://img.shields.io/badge/Behance-blue?style=flat-square&logo=Behance&link=https://www.behance.net/luizalissandra)](https://www.behance.net/luizalissandra)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LissandraRodrigues)](https://github.com/LissandraRodrigues)
