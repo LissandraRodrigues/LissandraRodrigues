@@ -24,7 +24,7 @@
 
 ## About me
 
-I am a student of Electronic and Computer Engineering at <a href='https://poli.ufrj.br/graduacao/eletronica-e-de-computacao/'>UFRJ</a> and leader of the Trekking category in the <a href="https://www.instagram.com/minervabots"/>MinervaBots</a> robotics team. 
+I am a student of Electronic and Computer Engineering at <a href='https://poli.ufrj.br/graduacao/eletronica-e-de-computacao/'>UFRJ.</a> 
 
 ### I was:
 
@@ -32,9 +32,11 @@ I am a student of Electronic and Computer Engineering at <a href='https://poli.u
 
 - An intern at <a href="http://www.tracsense.tech/"> TracSense </a> as a Full Stack Developer. I worked with **Python**, **Javascript**, **NodeJS**, **Typescript** and **React**.
 
-- An intern at <a href="https://poli.ufrj.br/"> Politécnica UFRJ </a> as a Full Stack Developer. I worked with **Python**, **Javascript**, **NodeJS**, **React**, **HTML** and **CSS**..
+- An intern at <a href="https://poli.ufrj.br/"> Politécnica UFRJ </a> as a Full Stack Developer. I worked with **Python**, **Javascript**, **NodeJS**, **React**, **HTML** and **CSS**.
 
-- An member at <a href="https://ejcm.com.br/"> EJCM </a> as a Back-end Developer. I worked with **Javascript**, **NodeJS**, **React**, **HTML** and **CSS**.
+- A member and leader of the Trekking category in the <a href="https://www.instagram.com/minervabots"/>MinervaBots</a> robotics team. I worked with **Python** and **C++**.
+
+- A member at <a href="https://ejcm.com.br/"> EJCM </a> as a Back-end Developer. I worked with **Javascript**, **NodeJS**, **React**, **HTML** and **CSS**.
 
 - A <a href = "https://laweeeda.ict.unesp.br/site/en/about/"> LaWEEEda </a> scholarship holder and a volunteer at the <a href = "http://nides.ufrj.br/index.php/o-lipe"> Informatics Laboratory for Education </a> (LIpE).
 
